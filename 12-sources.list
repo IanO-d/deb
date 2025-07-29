@@ -1,0 +1,9 @@
+# Source: https://www.veeble.com/kb/debian-repo-urls-for-sources-list-file/
+# Last accessed 29Jul25
+
+deb https://deb.debian.org/debian bookworm main non-free-firmware
+deb-src https://deb.debian.org/debian bookworm main non-free-firmware
+deb https://security.debian.org/debian-security bookworm-security main non-free-firmware
+deb-src https://security.debian.org/debian-security bookworm-security main non-free-firmware
+deb https://deb.debian.org/debian bookworm-updates main non-free-firmware
+deb-src https://deb.debian.org/debian bookworm-updates main non-free-firmware
